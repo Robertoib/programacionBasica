@@ -105,7 +105,7 @@ Algunos pueden enviar correos electrónicos y algunos de estos pueden extraer in
 
 ### Ejercicios.
 
-## OrientaciÛn a objetos.
+## Orientación a objetos.
 
 Al principio del curso comentábamos que python es un lenguaje multiparadigma en el que se podría trabajar con programación estructurada como veníamos trabajando hasta ahora o con programación orientada a objetos lo cual es un paradigma de programación en que los conceptos del mundo real relevantes para el problema se modelan a travez de clases y objetos, y que de nuestro programa consiste en una serie interacción entre objetos.
 
