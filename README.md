@@ -28,7 +28,7 @@ Los ejercicios estan diseñados para el desarrollo en el alumno la oportunidad d
 
 Para entrar a la terminal escribir el comando "Python" para salir de python usamos exit().
 
-Existen dos formas de ejecutar código en Python, la cual puede ser mediante una sección, interactiva(linea a linea)con el interprete o bien de la forma habitual, escribiendo el código en un archivo de cÛdigo fuente ejecutando en la primera parte de este curso lo haremos por el interprete.
+Existen dos formas de ejecutar código en Python, la cual puede ser mediante una sección, interactiva(linea a linea)con el interprete o bien de la forma habitual, escribiendo el código en un archivo de código fuente ejecutando en la primera parte de este curso lo haremos por el interprete.
 
 El primer programa que vamos a escribir en Python es el clasico "Hola mundo" y en este lenguaje esta simple como **print('Hola mundo')**
 
@@ -42,7 +42,7 @@ Donde:
 ## Python.
 Los tipos de datos basicos se dividen en:
 
-+ N˙meros: como pueden ser:
++ Numeros: como pueden ser:
 
 3(Entero o integer)
 
@@ -67,7 +67,7 @@ En python se puede representar numeros enteros, reales y complejos.
 
 Se pueden representar numero de -2**64 a 2**64.
 
-* Los n˙meros complejos son aquellos que tienen una parte imaginaria. Para definir una variable complejos se utiliza el termino(**complex**).
+* Los numeros complejos son aquellos que tienen una parte imaginaria. Para definir una variable complejos se utiliza el termino(**complex**).
 
 ## Ejercicios.
 
