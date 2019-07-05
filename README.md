@@ -69,7 +69,16 @@ Se pueden representar numero de -2**64 a 2**64.
 
 * Los n˙meros complejos son aquellos que tienen una parte imaginaria. Para definir una variable complejos se utiliza el termino(**complex**).
 
-## Ejercicios. Unidad 1.
+## Ejercicios.
+
+
+![codigo10](https://user-images.githubusercontent.com/52551873/60697958-ae785600-9eb2-11e9-9ad4-3d02a828b8bb.png)
+
+![Ej10](https://user-images.githubusercontent.com/52551873/60697954-aae4cf00-9eb2-11e9-90f8-ca053566043b.png)
+
+![codigo12](https://user-images.githubusercontent.com/52551873/60697960-b33d0a00-9eb2-11e9-85c6-4fdd6b83a501.png)
+
+![Ej12](https://user-images.githubusercontent.com/52551873/60697961-b506cd80-9eb2-11e9-9998-4b7ad5e65394.png)
 
 ## Ciclo For... In.
 
