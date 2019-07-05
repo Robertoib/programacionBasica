@@ -105,6 +105,15 @@ Algunos pueden enviar correos electrónicos y algunos de estos pueden extraer in
 
 ### Ejercicios.
 
+![codigo6](https://user-images.githubusercontent.com/52551873/60697829-ddda9300-9eb1-11e9-9922-fc7676876e62.png)
+
+![Ej6](https://user-images.githubusercontent.com/52551873/60697833-e0d58380-9eb1-11e9-9c0c-a6f3d03c6217.png)
+
+
+![codigo1](https://user-images.githubusercontent.com/52551873/60696202-58071980-9eaa-11e9-86bf-fcd40432f3c6.png)
+
+![Ej1](https://user-images.githubusercontent.com/52551873/60696211-5a697380-9eaa-11e9-88f0-86e8623cb16e.png)
+
 ## Orientación a objetos.
 
 Al principio del curso comentábamos que python es un lenguaje multiparadigma en el que se podría trabajar con programación estructurada como veníamos trabajando hasta ahora o con programación orientada a objetos lo cual es un paradigma de programación en que los conceptos del mundo real relevantes para el problema se modelan a travez de clases y objetos, y que de nuestro programa consiste en una serie interacción entre objetos.
