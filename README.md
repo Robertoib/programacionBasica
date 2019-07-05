@@ -32,7 +32,7 @@ Existen dos formas de ejecutar código en Python, la cual puede ser mediante una
 
 El primer programa que vamos a escribir en Python es el clasico "Hola mundo" y en este lenguaje esta simple como **print('Hola mundo')**
 
-![Codigo2](https://user-images.githubusercontent.com/52551873/60695821-d19e0800-9ea8-11e9-9aeb-8fae1ead802a.png)
+
 
 Donde:
 
@@ -59,7 +59,7 @@ Para poder conocer el tipo de dato de una variable usaremos la instrucción **ty
 Cómo se puede notar a diferencia de muchos otros lenguajes en python no se declara el tipo de variable al crearla.
 
 ### Para resumir.
-En python se puede representar n˙meros enteros, reales y complejos.
+En python se puede representar numeros enteros, reales y complejos.
 
 * Los n˙meros enteros son n˙meros positivos o negativos que no tienen decimales. En la mayor parte de las maquinas las variables enteras(**int**) pueden almacenar n˙meros de -2**31 a 2**31 en plataformas de 64 bits el rango es de -2**63 a 2**63.
 
