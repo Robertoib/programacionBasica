@@ -118,3 +118,8 @@ Un objeto es una identidad que agrupa un estado y una funcionalidad relacionada.
 Una clase no es mas que una plantilla genérica de la cual distancia los objetos; es la plantilla que define que atributos y métodos tendrán los objetos de esa clase.
 
 En python las clases se definen mediante la palabra clave **class** seguido de nombre de la clase, seguido por dos puntos(;)y a continuación id estando el cuerpo de la clase.
+
+![codigo1](https://user-images.githubusercontent.com/52551873/60696202-58071980-9eaa-11e9-86bf-fcd40432f3c6.png)
+
+
+![Ej1](https://user-images.githubusercontent.com/52551873/60696211-5a697380-9eaa-11e9-88f0-86e8623cb16e.png)
