@@ -88,6 +88,16 @@ En python **for** se utiliza como una forma genérica de interpretar una secuenc
 
 ### Ejercicios.
 
+![codigo7](https://user-images.githubusercontent.com/52551873/60698155-b258a800-9eb3-11e9-818f-5e7cd7fba494.png)
+
+![Ej7](https://user-images.githubusercontent.com/52551873/60698156-b389d500-9eb3-11e9-8e75-a4c1b70e40ed.png)
+
+
+![codigo8](https://user-images.githubusercontent.com/52551873/60698162-b7b5f280-9eb3-11e9-8a3d-8896fdc6f3b1.png)
+
+![Ej8](https://user-images.githubusercontent.com/52551873/60698167-ba184c80-9eb3-11e9-94d2-c88b4059bba2.png)
+
+
 ## Funciones.
 
 Una función es un fragmento de código con un nombre asociado que realiza una serie de tareas y devuelve un valor. Ademas de ayudarnos a programar y definir dividiendo el valor por partes, las funciones también permiten realizar código.
