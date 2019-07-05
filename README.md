@@ -32,6 +32,8 @@ Existen dos formas de ejecutar código en Python, la cual puede ser mediante una
 
 El primer programa que vamos a escribir en Python es el clasico "Hola mundo" y en este lenguaje esta simple como **print('Hola mundo')**
 
+![Codigo2](https://user-images.githubusercontent.com/52551873/60695821-d19e0800-9ea8-11e9-9aeb-8fae1ead802a.png)
+
 Donde:
 
 * Print = Comando
